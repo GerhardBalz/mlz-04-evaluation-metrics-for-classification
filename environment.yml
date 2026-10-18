@@ -1,0 +1,13 @@
+name: ml-zoomcamp
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scikit-learn
+  - python=3.11
+  - seaborn
+  - matplotlib
+  - jupyter
+  - nbformat
+  - pandas
+  - ipykernel
